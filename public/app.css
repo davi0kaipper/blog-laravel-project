@@ -1,0 +1,11 @@
+body {
+    background: white;
+    color: #222;
+    font-family: sans-serif;
+    margin: auto;
+    max-width: 600px;
+}
+
+p {
+    line-height: 1.6;
+}
